@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+/Users/gmaggiotti/Google Drive/Fidelity/workspace/.metadata/.plugins/org.eclipse.jdt.core
-3240877965.index
-1845227756.index
-2001237504.index
