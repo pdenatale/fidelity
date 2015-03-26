@@ -1,0 +1,326 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453013859
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1343453019734
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453020968
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453030828
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1343453034249
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453035437
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453037828
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1343453040937
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453041921
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453081718
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343453085562
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1343453098093
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453101156
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453117265
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343453123624
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1343453128109
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343453132281
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343453141484
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343453148468
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1343453165343
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1343453166609
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1343453178093
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453179640
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453226218
+activated,editor,org.eclipse.datatools.sqltools.sqlscrapbook,1.0.2.v201205310922,"org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor",1343453228374
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1343453236499
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453237968
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453249624
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453254249
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453392546
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343453394906
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343453395765
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453429296
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453444484
+activated,editor,org.eclipse.datatools.sqltools.sqlscrapbook,1.0.2.v201205310922,"org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor",1343453444609
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1343453474921
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453476671
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453602953
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453605374
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453725609
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453727953
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453729437
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453732156
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453732171
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453732265
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453765609
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343453767359
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454114499
+activated,view,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.ui.explorer",1343454116484
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454145328
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454168437
+activated,editor,org.eclipse.datatools.sqltools.sqlscrapbook,1.0.2.v201205310922,"org.eclipse.datatools.sqltools.sqlscrapbook.SQLScrapbookEditor",1343454168578
+activated,view,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.ui.explorer",1343454176046
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454184218
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454230062
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454247171
+opened,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343454277046
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343454277093
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454277187
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1343454278640
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.save",1343454283031
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454285781
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454297765
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343454300484
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343454315249
+activated,view,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.ui.explorer",1343454320812
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.copy",1343454321968
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454322484
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454330312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.edit.paste",1343454330359
+opened,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343454333249
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343454333312
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454639359
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454659203
+activated,view,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.ui.explorer",1343454659343
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343454659437
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454718093
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454818062
+activated,view,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.ui.explorer",1343454819921
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343454822937
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343455689046
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343455689312
+activated,view,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.ui.explorer",1343455692031
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343455696249
+started,bundle,org.eclipse.ant.ui,3.5.100.v20110510,"org.eclipse.ant.ui",1343456552078
+started,bundle,com.springsource.sts.config.ui,2.8.1.201111221000-RELEASE,"com.springsource.sts.config.ui",1343456553343
+started,bundle,org.eclipse.jpt.common.core,1.0.1.v201108080010,"org.eclipse.jpt.common.core",1343456553937
+started,bundle,org.eclipse.jpt.jpa.core,3.0.1.v201109073010,"org.eclipse.jpt.jpa.core",1343456553937
+error,log,,,"",1343456554156
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456556406
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456556406
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456558031
+error,log,,,"Failed to finish PrecompilerBuilder#startupOnInitialize()",1343456558140
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456558140
+started,bundle,com.springsource.sts.quickfix,2.8.1.201111221000-RELEASE,"com.springsource.sts.quickfix",1343456558374
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1343456559265
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1343456559296
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456562624
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456563828
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456563828
+error,log,,,"",1343456584796
+error,log,,,"",1343456600781
+error,log,,,"",1343456601578
+error,log,,,"",1343456602406
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343456613937
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.300.v201108240515,"org.eclipse.wst.ws.service.policy.ui",1343456664624
+started,bundle,org.eclipse.wst.ws.service.policy,1.0.303.v201009221810,"org.eclipse.wst.ws.service.policy",1343456664640
+started,bundle,org.eclipse.wst.command.env,1.0.409.v201004211805,"org.eclipse.wst.command.env",1343456664718
+started,bundle,org.eclipse.wst.ws,1.1.203.v201004211805,"org.eclipse.wst.ws",1343456664718
+started,bundle,com.springsource.sts.frameworks.ui,2.8.1.201111221000-RELEASE,"com.springsource.sts.frameworks.ui",1343456664953
+started,bundle,com.springsource.sts.frameworks.core,2.8.1.201111221000-RELEASE,"com.springsource.sts.frameworks.core",1343456664999
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343456672828
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456705374
+error,log,,,"Unhandled event loop exception",1343456705374
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456707421
+error,log,,,"",1343456707437
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456708406
+error,log,,,"",1343456708421
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456708578
+error,log,,,"",1343456708578
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456708703
+error,log,,,"",1343456708703
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456708859
+error,log,,,"",1343456708874
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456726812
+error,log,,,"",1343456726812
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456751312
+error,log,,,"",1343456751312
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456752062
+error,log,,,"",1343456752078
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456752234
+error,log,,,"",1343456752234
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456752421
+error,log,,,"",1343456752421
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456752624
+error,log,,,"",1343456752624
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456763578
+error,log,,,"",1343456763593
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456764109
+error,log,,,"",1343456764124
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456764453
+error,log,,,"",1343456764468
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456764656
+error,log,,,"",1343456764671
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456764812
+error,log,,,"",1343456764828
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456764968
+error,log,,,"",1343456764984
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456765124
+error,log,,,"",1343456765124
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456765296
+error,log,,,"",1343456765296
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456780437
+error,log,,,"",1343456780453
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456781093
+error,log,,,"",1343456781124
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456781265
+error,log,,,"",1343456781296
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456781406
+error,log,,,"",1343456781406
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456781562
+error,log,,,"",1343456781562
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456781734
+error,log,,,"",1343456781749
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456806718
+error,log,,,"",1343456806734
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456808953
+error,log,,,"Unhandled event loop exception",1343456808953
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456815578
+error,log,,,"",1343456815593
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456817828
+error,log,,,"",1343456817828
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456818421
+error,log,,,"",1343456818421
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456826656
+error,log,,,"",1343456826671
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456850374
+error,log,,,"Unhandled event loop exception",1343456850374
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456851312
+error,log,,,"",1343456851312
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456853078
+error,log,,,"",1343456853078
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456853218
+error,log,,,"",1343456853234
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456853406
+error,log,,,"",1343456853406
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456853546
+error,log,,,"",1343456853546
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456853703
+error,log,,,"",1343456853718
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456853859
+error,log,,,"",1343456853874
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456854015
+error,log,,,"",1343456854046
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456854296
+error,log,,,"",1343456854296
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456854499
+error,log,,,"",1343456854499
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456854687
+error,log,,,"",1343456854687
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456854874
+error,log,,,"",1343456854890
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456855031
+error,log,,,"",1343456855046
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456855218
+error,log,,,"",1343456855234
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456855374
+error,log,,,"",1343456855374
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456855546
+error,log,,,"",1343456855562
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343456893374
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1343456893437
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343456897499
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456907015
+error,log,,,"",1343456907296
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456908781
+error,log,,,"",1343456908781
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343456921859
+error,log,,,"",1343456921874
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343456922484
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1343456922624
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.file.refresh",1343456933015
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343456945703
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457013531
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1343457013593
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457047031
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457063234
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.perspectives.showPerspective",1343457063249
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.perspectives.showPerspective",1343457063249
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457072890
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457078906
+started,bundle,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.resources",1343457079140
+started,bundle,org.eclipse.emf.edit,2.8.0.v20120608-0554,"org.eclipse.emf.edit",1343457079843
+started,bundle,org.eclipse.emf.common.ui,2.7.0.v20120608-0554,"org.eclipse.emf.common.ui",1343457079906
+started,bundle,org.eclipse.emf.edit.ui,2.8.0.v20120608-0554,"org.eclipse.emf.edit.ui",1343457079906
+started,bundle,org.eclipse.jst.j2ee.webservice.ui,1.1.500.v201105122000,"org.eclipse.jst.j2ee.webservice.ui",1343457079921
+started,bundle,org.eclipse.jst.j2ee.webservice,1.1.400.v201004110600,"org.eclipse.jst.j2ee.webservice",1343457079968
+started,bundle,org.eclipse.jst.jee.ui,1.0.400.v201105122000,"org.eclipse.jst.jee.ui",1343457080078
+started,bundle,org.eclipse.jst.j2ee.ui,1.1.501.v201108231700,"org.eclipse.jst.j2ee.ui",1343457080124
+started,bundle,org.eclipse.jst.j2ee.navigator.ui,1.1.501.v201107261503,"org.eclipse.jst.j2ee.navigator.ui",1343457080140
+opened,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1343457081390
+opened,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.AllMarkersView",1343457081609
+activated,perspective,org.eclipse.jst.j2ee.ui,1.1.501.v201108231700,"org.eclipse.jst.j2ee.J2EEPerspective",1343457081640
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343457082187
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.perspectives.showPerspective",1343457082312
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.perspectives.showPerspective",1343457082312
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1343457084078
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.100.v201101252155,"org.eclipse.jst.ws.jaxws.dom.integration",1343457084109
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1343457084156
+started,bundle,org.eclipse.jst.servlet.ui,1.1.501.v201108220630,"org.eclipse.jst.servlet.ui",1343457084265
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.navigate.linkWithEditor",1343457094796
+activated,perspective,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.perspective",1343457104515
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343457104562
+closed,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1343457104687
+closed,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.AllMarkersView",1343457104703
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.window.closePerspective",1343457104718
+activated,view,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.ui.explorer",1343457112921
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457120921
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457132343
+opened,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1343457132468
+opened,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.AllMarkersView",1343457132499
+activated,perspective,org.eclipse.jst.j2ee.ui,1.1.501.v201108231700,"org.eclipse.jst.j2ee.J2EEPerspective",1343457132531
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343457132593
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.perspectives.showPerspective",1343457132671
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.perspectives.showPerspective",1343457132671
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1343457135624
+started,bundle,org.eclipse.mylyn.tasks.index.core,3.7.1.v20120425-0100,"org.eclipse.mylyn.tasks.index.core",1343457137640
+started,bundle,org.eclipse.mylyn.commons.notifications.ui,0.9.1.v20120425-0100,"org.eclipse.mylyn.commons.notifications.ui",1343457138468
+opened,view,org.eclipse.mylyn.tasks.ui,3.7.1.v20120425-0100,"org.eclipse.mylyn.tasks.ui.views.tasks",1343457138593
+activated,view,org.eclipse.mylyn.tasks.ui,3.7.1.v20120425-0100,"org.eclipse.mylyn.tasks.ui.views.tasks",1343457139874
+activated,view,org.eclipse.ui.views,3.6.0.I20110412-0800,"org.eclipse.ui.views.ContentOutline",1343457139890
+closed,view,org.eclipse.mylyn.tasks.ui,3.7.1.v20120425-0100,"org.eclipse.mylyn.tasks.ui.views.tasks",1343457139906
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.I20110421-1800,"org.eclipse.ui.navigator.ProjectExplorer",1343457141593
+opened,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.ResourceNavigator",1343457147281
+activated,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.ResourceNavigator",1343457147328
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.views.showView",1343457147328
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457166734
+error,log,,,"Failed to load properties file for project 'Test1'",1343457210390
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457211593
+started,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1343457217187
+opened,editor,com.android.ide.eclipse.adt,20.0.0.v201206242043-391819,"com.android.ide.eclipse.editors.CommonXmlEditor",1343457217609
+activated,editor,com.android.ide.eclipse.adt,20.0.0.v201206242043-391819,"com.android.ide.eclipse.editors.CommonXmlEditor",1343457218515
+error,log,,,"Core exception while retrieving the content description",1343457219015
+error,log,,,"Core exception while retrieving the content description",1343457219031
+error,log,,,"Core exception while retrieving the content description",1343457219078
+error,log,,,"Core exception while retrieving the content description",1343457219093
+error,log,,,"Core exception while retrieving the content description",1343457219093
+error,log,,,"Core exception while retrieving the content description",1343457219093
+error,log,,,"Core exception while retrieving the content description",1343457220515
+error,log,,,"Core exception while retrieving the content description",1343457220515
+error,log,,,"Core exception while retrieving the content description",1343457220515
+error,log,,,"Core exception while retrieving the content description",1343457220515
+error,log,,,"Core exception while retrieving the content description",1343457220531
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457227609
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457238812
+activated,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.ResourceNavigator",1343457238812
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1343457238843
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457240453
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457245109
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110505-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1343457245109
+error,log,,,"Failed to update a TargetChangeListener.",1343457246609
+error,log,,,"Resource '/Test1' does not exist.",1343457246640
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457247015
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457251046
+activated,editor,com.android.ide.eclipse.adt,20.0.0.v201206242043-391819,"com.android.ide.eclipse.editors.CommonXmlEditor",1343457255671
+activated,editor,org.eclipse.php.ui,3.0.1.v201201110400,"org.eclipse.php.editor",1343457255937
+closed,editor,com.android.ide.eclipse.adt,20.0.0.v201206242043-391819,"com.android.ide.eclipse.editors.CommonXmlEditor",1343457255937
+activated,view,org.eclipse.ui.ide,3.7.0.v20110809-1737,"org.eclipse.ui.views.ResourceNavigator",1343457257546
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457261390
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457268234
+executed,command,org.eclipse.ui,3.7.0.I20110602-0100,"org.eclipse.ui.newWizard",1343457268249
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1343457270859
+error,log,,,"",1343457352265
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343457352328
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343457352328
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343457352359
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343457352499
+error,log,,,"Failed to finish PrecompilerBuilder#startupOnInitialize()",1343457352499
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343457352499
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343457352671
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343457353718
+error,log,,,"Failed to load properties file for project 'DroidFidelity'",1343457353718
+error,log,,,"",1343457354765
+error,log,,,"",1343457355828
+error,log,,,"",1343457356531

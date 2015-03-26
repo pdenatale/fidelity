@@ -1,0 +1,48 @@
+<?php
+include '../lib/dbConn.php';
+include '../lib/strUtils.php';
+
+$json = $_REQUEST['json'];
+
+if( isset($json) && $json )
+{
+	$username = stripslashes( $_REQUEST['username'] );
+	$password = stripslashes( $_REQUEST['password'] );
+	$email = stripslashes( $_REQUEST['email'] );
+	$brand = stripslashes( $_REQUEST['brand'] );
+
+	if( !isFormFieldValid($username))
+		echo "The username you have choose has invalid characters!!!";
+	else
+	{
+		$result = mysql_query("SELECT login FROM brand WHERE login = '$username'");
+		$row = mysql_fetch_array($result);
+
+		if( isset($row)&& $username != "" && $username == $row{'login'})
+			echo 'Sorry, the username <b>'.$username.'</b> is already in use.';
+		else
+			if( !isEmailValid($email) )
+			echo 'Please enter a valid email address.';
+		else {
+			$md5pass =  md5($_POST['password']);
+			$insert = "INSERT INTO brand(login,email,password,name)
+			VALUES('".$username."','".$email."','".$md5pass."','".$brand."')";
+			mysql_query($insert);
+
+			//login the new user
+			$result = mysql_query("SELECT * FROM brand WHERE login='$username' AND password='$md5pass'");
+			$row = mysql_fetch_array($result);
+			if(isset($row))
+			{
+				session_start();
+				// Login good, create session variables
+				$_SESSION["valid_id"] = $row{'id'};
+				$_SESSION["valid_user"] = $username;
+				$_SESSION["valid_time"] = time();
+
+			}
+
+		}
+	}
+}
+?>

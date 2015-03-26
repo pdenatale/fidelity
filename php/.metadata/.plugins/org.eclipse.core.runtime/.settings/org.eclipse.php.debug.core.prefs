@@ -1,0 +1,4 @@
+#Sat Jul 21 12:12:59 GMT-03:00 2012
+eclipse.preferences.version=1
+DefaultProjectBasePath=/test
+org.eclipse.php.debug.core.pathMapper=<pathMappers><item1><mapper></mapper><server>Default PHP Web Server</server></item1></pathMappers>

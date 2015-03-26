@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.os.AsyncTask"/>
+<fullyQualifiedTypeName name="com.app.droidfidelity.DisplayPromoActivity"/>
+<fullyQualifiedTypeName name="com.app.droidfidelity.MainActivity"/>
+<fullyQualifiedTypeName name="com.app.droidfidelity.ListMobileActivity.PromoTaskRetriever"/>
+<fullyQualifiedTypeName name="org.json.JSONObject"/>
+<fullyQualifiedTypeName name="android.net.Uri.Builder"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="com.app.droidfidelity.ListMobileActivity"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.springsource.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>SpringSource.org</title>
+ <link>http://www.springsource.org</link>
+ <description>Welcome to the home of Spring, the leading platform to build and run enterprise Java applications. Led and sustained by SpringSource, Spring delivers significant benefits for many projects, increasing development productivity and runtime performance while improving test coverage and application quality.</description>
+ <language>en</language>
+<item>
+ <title>Promotion: Save 30% on Spring classes in Belgium, Ireland and UK</title>
+ <link>http://www.springsource.org/spring-promo-uk-ireland-belgium</link>
+ <description>&lt;p&gt;SpringSource/vFabric Education has launched several new Hot Seat promotions for professional Spring training classes in Belgium, Ireland and UK. If you register now, you can &lt;b&gt;SAVE 30%&lt;/b&gt; on the following professional Spring classes:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Core Spring&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;September 11 - 14: &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=det&amp;id_course=142213&amp;rcode=SPLPROMOCLS&quot;&gt;Brussels, Belgium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;September 18 - 21: &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=det&amp;id_course=142212&amp;rcode=SPLPROMOCLS&quot;&gt;Dublin, Ireland&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;September 18 - 21: &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=det&amp;id_course=142209&amp;rcode=SPLPROMOCLS&quot;&gt;London, United Kingdom&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;b&gt;Rich Web Applications with Spring&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;September 04 - 07: &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=det&amp;id_course=142771&amp;rcode=SPLPROMOCLS&quot;&gt;Dublin, Ireland&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Please use the following discount code in the referral code field during the registration process: &lt;b&gt;SPLPROMOCLS&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To view more training locations please visit our &lt;a href=&quot;http://mylearn.vmware.com/mgrReg/plan.cfm?plan=31719&amp;ui=www_edu&quot;&gt;vFabric Education page&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://www.springsource.org/spring-promo-uk-ireland-belgium#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Thu, 16 Aug 2012 14:21:36 +0000</pubDate>
+ <dc:creator>Mark Baars</dc:creator>
+ <guid isPermaLink="false">3635 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Spring Security OAuth 1.0.0.RC2 released</title>
+ <link>http://www.springsource.org/node/3634</link>
+ <description>&lt;p&gt;#spring #security #oauth 1.0.0.RC2 is released today http://bit.ly/xfE5PM. Download via github or Maven (SpringSource milestone repository).&lt;/p&gt;
+&lt;p&gt;Highlights:&lt;/p&gt;
+&lt;p&gt;* Better error responses from the framework endpoints&lt;br /&gt;
+* Fixed some issues with validation and enhancement of token contents&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/3634#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Thu, 16 Aug 2012 13:17:54 +0000</pubDate>
+ <dc:creator>Dave Syer</dc:creator>
+ <guid isPermaLink="false">3634 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Video: Spring Roo—Not Just another RAD Tool!</title>
+ <link>http://www.springsource.org/node/3633</link>
+ <description>&lt;p&gt;
+Most of you probably know Spring Roo as the Java-based rapid application development tool that uses AspectJ and a command-line shell to build Spring applications. But underneath those slick commands that set up your application components lurks an even more powerful and extensible platform, one that you can use to build anything you want.
+&lt;/p&gt;
+&lt;p&gt;
+In this presentation, SpringSource&#039;s Josh Long and Spring Roo in Action authors Ken Rimple and Srini Penchikala introduce Spring Roo 1.2, and then go further, exposing Roo&#039;s powerful addon-based underbelly. They introduce Roo&#039;s OSGi bundle support, and introduce how add-ons can be used to generate code, install templates, respond to addition / removal of annotations, and expose both open-source and internal-company libraries for use by your developers. Finally, they wrap up by discussing the recently developed Tailor add-on, and will show how it can be used to completely customize your developers&#039; shell environment.
+&lt;/p&gt;
+
+&lt;p&gt;Presenters: Ken Rimple, Srini Penchikala, and Josh Long&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/_VMmzaUxE0c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Be sure to thumbs up the presentation if you find it useful and &lt;a href=&quot;http://www.youtube.com/subscription_center?adduser=SpringSourceDev&quot;&gt;subscribe to the SpringSourceDev channel&lt;/a&gt; to see other recordings and screencasts.&lt;/p&gt;</description>
+ <comments>http://www.springsource.org/node/3633#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Thu, 16 Aug 2012 01:01:15 +0000</pubDate>
+ <dc:creator>Chloe Jackson</dc:creator>
+ <guid isPermaLink="false">3633 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Video: Introduction to Spring Data Neo4j</title>
+ <link>http://www.springsource.org/node/3632</link>
+ <description>&lt;p&gt;
+View this webinar for a practical guide to get started with Spring Data Neo4j. This webinar is the perfect complement to the ebook Good Relationships and is aimed toward those interested in quickly learning how to get started using Spring Data Neo4j.
+&lt;/p&gt;
+&lt;p&gt;
+During this webinar we will cover:
+  &lt;ul&gt;
+    &lt;li&gt;Spring Data Neo4j&#039;s features and benefits&lt;/li&gt;
+    &lt;li&gt;Spring Data Neo4j use case: Cineasts, the social movie recommendation site&lt;/li&gt;
+    &lt;li&gt;Step by step demo to get started working on Spring Data Neo4j&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Spring Data Neo4j is part of the Spring Data project which aims to provide convenient support for NoSQL databases.
+&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/heC-8Pq2exQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Be sure to thumbs up the presentation if you find it useful and &lt;a href=&quot;http://www.youtube.com/subscription_center?adduser=SpringSourceDev&quot;&gt;subscribe to the SpringSourceDev channel&lt;/a&gt; to see other recordings and screencasts.&lt;/p&gt;</description>
+ <comments>http://www.springsource.org/node/3632#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Thu, 16 Aug 2012 00:57:56 +0000</pubDate>
+ <dc:creator>Chloe Jackson</dc:creator>
+ <guid isPermaLink="false">3632 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Video: What&#039;s New in RabbitMQ - June 2012 Edition</title>
+ <link>http://www.springsource.org/node/3629</link>
+ <description>&lt;p&gt;In the last year and a half, RabbitMQ has seen six major new releases. In this talk, we briefly review messaging, RabbitMQ and the AMQP protocol before covering some of the new features including easier plugin management, new plugins and extensions, publisher confirms, dead lettering, and a new high availability feature based on mirroring queues across nodes in a cluster. Presenter: Jerry Kuch, Staff Engineer, VMware&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/WCRyNesk_ak?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;p&gt;Be sure to thumbs up the presentation if you find it useful and &lt;a href=&quot;http://www.youtube.com/subscription_center?adduser=SpringSourceDev&quot;&gt;subscribe to the SpringSourceDev channel&lt;/a&gt; to see other recordings and screencasts.&lt;/p&gt;</description>
+ <comments>http://www.springsource.org/node/3629#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 15 Aug 2012 22:40:13 +0000</pubDate>
+ <dc:creator>Chloe Jackson</dc:creator>
+ <guid isPermaLink="false">3629 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>New Home for SpringSource University</title>
+ <link>http://www.springsource.org/vfabric-education-home</link>
+ <description>&lt;p&gt;SpringSource University has recently launched a &lt;a href=&quot;http://mylearn.vmware.com/mgrReg/plan.cfm?plan=31719&amp;ui=www_edu&quot;&gt;new education website&lt;/a&gt; that will be hosted on VMware.com. Along with all the information on SpringSource / vFabric education you will find information about certification, class schedules, free class material and more. SpringSource has also released several new learning paths to assist students in becoming a professional developer, operator or administrator:&lt;/p&gt;
+
+&lt;p&gt;Spring Developer Path&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step 1 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=17750&quot;&gt;Core Spring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Step 2 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=17834&quot;&gt;Rich Web Application with Spring&lt;/a&gt; | &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=17833&quot;&gt;Enterprise Integration with Spring&lt;/a&gt; | &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=18355&quot;&gt;Hibernate with Spring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Step 3 &lt;a href=&quot;http://mylearn.vmware.com/mgrReg/plan.cfm?plan=31110&amp;ui=www_cert&quot;&gt;Get Certified&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;Groovy &amp; Grails Developer Path&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step 1 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=18353&quot;&gt;Groovy &amp; Grails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;vFabric Gemfire Developer Path&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step 1 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=27918&quot;&gt;vFabric Gemfire Essentials&lt;/a&gt;
+&lt;li&gt;Step 2 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=30104&quot;&gt;vFabric Gemfire for Developers&lt;/a&gt;
+&lt;/ul&gt;
+&lt;p&gt;vFabric RabbitMQ Developer Path&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step 1 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=32507&quot;&gt;vFabric RabbitMQ Essentials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Step 2 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=31329&quot;&gt;vFabric RabbitMQ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;vFabric System Administrator Learning Paths&lt;/p&gt;
+
+&lt;p&gt;tc Server/Tomcat Administrator Path&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Step 1 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=27956&quot;&gt;vFabric tc Server Essentials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Step 2 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=23470&quot;&gt;Tomcat Administration&lt;/a&gt; (4 day) or &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=23728&quot;&gt;tcServer Administration&lt;/a&gt; (4 day Custom Onsite -- choose &quot;Inquire About Onsite&quot;)&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;vFabric Hyperic Adminstrator Path&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Step 1 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=24456&quot;&gt;vFabric Hyperic Essentials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Step 2 &lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=18470&quot;&gt;vFabric Hyperic Administration&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;For more information visit the &lt;a href=&quot;http://mylearn.vmware.com/mgrReg/plan.cfm?plan=31719&amp;ui=www_edu&quot;&gt;New vFabric Education Page&lt;/a&gt;&lt;/p&gt;
+&lt;div style=&quot;float: left; padding: 10px&quot;&gt;
+&lt;a href=&quot;http://mylearn.vmware.com/mgrreg/courses.cfm?ui=www_edu&amp;a=one&amp;id_subject=17750&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://www.springsource.org/files/VMware Education.jpg
+&quot; /&gt;</description>
+ <comments>http://www.springsource.org/vfabric-education-home#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <enclosure url="http://www.springsource.org/files/VMware Education.jpg" length="28747" type="image/jpeg" />
+ <pubDate>Wed, 15 Aug 2012 13:44:36 +0000</pubDate>
+ <dc:creator>Mark Baars</dc:creator>
+ <guid isPermaLink="false">3628 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>This Week in Spring, August 14th, 2012</title>
+ <link>http://www.springsource.org/node/3627</link>
+ <description> 
+&lt;P&gt; Welcome to another installment of &lt;EM&gt;This Week in Spring&lt;/EM&gt;!  As usual, we&#039;ve got a lot to cover, so let&#039;s get to it.
+
+&lt;/P&gt;
+&lt;OL&gt; 
+&lt;LI&gt; The &lt;a href =&quot;http://blog.springsource.org/2012/08/13/springsource-tool-suites-3-0-0-released-reorganized-open-sourced-and-at-github/&quot;&gt; SpringSource Tool Suite has been open sourced&lt;/A&gt;! And, two different versions of it are now available, supporting two different developers: the Spring developer, served by the Spring Tool Suite, and the Groovy and Grails developer, served by the Groovy/Grails Tool Suite.   For more on this fantastic news, check out Tool Suites-lead Martin Lippert&#039;s blog.
+	&lt;/LI&gt;
+	 &lt;li&gt; Spring Security lead Rob Winch announced the latest version of &lt;a href = &quot;http://www.springsource.org/node/3625&quot;&gt;Spring Security, version 3.1.2, has been released&lt;/a&gt;. 
+		
+		 &lt;/a&gt;
+	&lt;LI&gt; The ZeroTurnaround blog has a &lt;EM&gt; really&lt;/EM&gt; cool little blog on rapid development with Spring and Hibernate. 
+		 Of course, Zero Turnaround has a handy little software agent that lets you reload Java classes on the fly. So that&#039;s a &lt;EM&gt;huge&lt;/EM&gt; gain in productivity right there. That, coupled with XML-free Spring 3.1 and Hibernate 4.1, and you have yourself a &lt;Em&gt;really&lt;/EM&gt; awesome combination. To learn more, check out the blog!  The example he illustrates are also well &lt;a href = &quot;http://github.com/cloudfoundry-samples/springmvc-hibernate-template&quot;&gt;represented in this sample project on GitHub&lt;/A&gt;. The example even  includes &lt;CODE&gt;web.xml&lt;/CODE&gt;, even though it isn&#039;t required, just as was done in that blog post, specifically because it&#039;s more reliable on the buggy versions of JBoss 7 and Servlet 3 environments aren&#039;t ubiquitous, yet. 
+			 This is a seriously cool blog post, be sure to read the followups!
+
+		&lt;/LI&gt;
+
+ &lt;LI&gt;Joseph Kulandai &lt;a href = &quot;http://javapapers.com/spring/spring-applicationcontext/&quot;&gt;has a nice, introductory blog post on the Spring &lt;CODE&gt;ApplicationContext&lt;/CODE&gt;&lt;/a&gt;, including some tidbits about it that I&#039;d long since forgotten! Very nicely done, Joseph! 
+	&lt;/LI&gt; 
+	&lt;LI&gt;We talked about this before, but InfoQ&#039;s coverage is pretty awesome, too. 
+		  &lt;A href = &quot;http://www.infoq.com/news/2012/08/RESTDocletOpenSource&quot;&gt;IG Group Open-Sources RESTdoclet&lt;/A&gt;, which makes it dead simple to generate documentation for Spring-based RESTful services. REST, for better or for worse, does not have something like SOAP&#039;s WSDL, which enumerates the interface contract for clients connecting to SOAP-based web services. This technology fills that gap.
+		  &lt;/LI&gt;
+	
+	
+&lt;LI&gt;
+	Paxcel Labs has an interesting blog post on &lt;a href = &quot;http://blog.paxcel.net/blog/spring-dependency-injection/&quot;&gt;that attempts to demystify IoC (inversion of control) and how Spring supports the concept&lt;/A&gt;. 
+		 
+		&lt;/LI&gt; 
+
+&lt;LI&gt; The Hybris blog has been on a roll recently with their posts on consuming OAuth from the client perspective, but &lt;A href = &quot;http://techblog.hybris.com/2012/08/10/oauth2-server-side-implementation-using-spring-security-oauth2-module/&quot;&gt;&lt;EM&gt;this&lt;/em&gt; post, in particular, introducing how to setup Spring Security OAuth  &lt;/a&gt;
+	
+	is the one I&#039;ve been waiting for!  It&#039;s a very nice read, and I&#039;m glad they&#039;ve shared it with us, complete with working code and a blow-by-blow breakdown of the pieces. OAuth is complex, Spring Security OAuth (not yet GA!) makes it much simpler, but it&#039;s still nice to have guidance.
+	&lt;/LI&gt; 
+
+&lt;LI&gt; Speaking of Spring Security, the Java Code Geeks have a blog post  with a classic recipe (an oldie but a goodie): &lt;a href = &quot;http://www.javacodegeeks.com/2012/08/spring-security-implementing-custom.html&quot;&gt;how to implement a &lt;CODE&gt;UserDetails&lt;/CODE&gt; object backed by Hibernate&lt;/A&gt; entities (of your own design).
+	&lt;/LI&gt;
+
+&lt;LI&gt;Biju Kunjummen has a great blog post introducing  
+	
+	&lt;a href = &quot;http://biju-allandsundry.blogspot.hk/2012/08/spring-configuration-and-factorybean.html&quot;&gt;
+		 some of the nuances of using Java-based configuration 
+	&lt;/a&gt;. Specifically, he reminds us to let Spring provide the lifecycle callbacks by routing things through @Bean methods, instead of instatiating the objects directly. 
+ 	&lt;/LI&gt; 
+&lt;LI&gt; If  you use &lt;a href = &quot;http://www.agile-code.com/blog/aop-method-interception-with-spring-net/&quot;&gt; Spring.NET, and want to take advantage of AOP method interception&lt;/A&gt;, check out this post! &lt;/LI&gt; 
+	&lt;LI&gt; Spring Data Neo4j lead Michael Hunger, fresh off his very cool &lt;a href = &quot;http://www.youtube.com/watch?v=heC-8Pq2exQ&amp;feature=plcp&quot;&gt; Spring Data Neo4J webinar&lt;/A&gt; (find more great content like that on our &lt;a href = &quot;http://www.youtube.com/SpringSourceDev&quot;&gt;YouTube channel&lt;/A&gt;!), has put together &lt;a href = &quot;http://java.dzone.com/articles/spring-data-neo4j-webinar&quot;&gt;a followup blog with helpful resources like the location of the slides&lt;/A&gt;.  Thanks, Michael!    &lt;/LI&gt;
+
+&lt;LI&gt; Partha Bhattacharjee continues his blog series introducing Spring Integration. This time, he talks about &lt;a href = &quot;http://java.dzone.com/articles/spring-integration-gateways-1&quot;&gt;Spring Integration&#039;s gateways, which make request/reply semantic exchanges dead simple&lt;/A&gt;!
+	 
+	&lt;/LI&gt; 
+
+&lt;LI&gt; Captain Debug has a wonderful post on using &lt;a href =&quot;http://www.captaindebug.com/2012/08/using-spring-profiles-in-xml-config.html&quot;&gt;Spring 3.1&#039;s profiles to define environment-specific beans in XML&lt;/a&gt;.  &lt;/Li&gt;
+  	&lt;LI&gt; The Halycon code blog has a post on using Spring&#039;s sub-contexts to let you take advantage of Spring&#039;s property-placeholder resolution in &lt;CODE&gt; import &lt;/CODE&gt; statements. Normally, these statements are not able to &lt;EM&gt;see&lt;/EM&gt; the property placeholders of the current application context, but nested contexts &lt;EM&gt;can &lt;/EM&gt; see the property placeholders of the parent contexts. Solution? Simply instantiate &lt;a href = &quot;http://bottlenet.blogspot.hk/2012/08/spring-dynamic-import-with-properties.html&quot;&gt;everything in a child context so that the &lt;CODE&gt;import&lt;/CODE&gt; statement can use the parent context&#039;s properties&lt;/A&gt;! This trick&#039;s kind of sneaky! I like it.   
+	 
+ Remember, child contexts provide scoping - beans defined in one child can&#039;t see beans defined in another.  This makes it very useful for things like Spring Batch Admin, which lets you upload and launch new Spring Batch jobs (which themselves are based on Spring configuration)  on the fly.	&lt;/LI&gt;
+	&lt;LI&gt; The Java Assist blog has a nice post on &lt;a href= &quot;http://java-assist.blogspot.hk/2012/08/spring-mvc-validation.html&quot;&gt;using Spring MVC bean validation in 3.0 or later&lt;/A&gt;. Cool!  &lt;/LI&gt;
+	&lt;LI&gt; The Intelligrape blog has a quick post about using Grails&#039; support for Spring beans, &lt;a href = &quot;http://www.intelligrape.com/blog/2012/08/14/using-initialization-bean-to-set-properties/&quot;&gt;and exploiting Spring&#039;s lifecycle callbacks, particularly  &lt;CODE&gt;InitializingBean#afterPropertiesSet&lt;/CODE&gt;. &lt;/a&gt;  &lt;/LI&gt;
+	
+	&lt;LI&gt;   The Middleware magic blog has a nice, complete post on configuring &lt;A href = &quot;http://middlewaremagic.com/weblogic/?p=8092&quot;&gt; Spring to talk to a JBoss AS 7-managed JMS instance&lt;/A&gt;. The  example is particularly involved because of all the work required to setup JBoss and to build up a client connection to it.  &lt;/LI&gt;
+ 	
+	
+&lt;/ol&gt;</description>
+ <comments>http://www.springsource.org/node/3627#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 15 Aug 2012 01:25:03 +0000</pubDate>
+ <dc:creator>Josh Long</dc:creator>
+ <guid isPermaLink="false">3627 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Spring Security 3.1.2 Released</title>
+ <link>http://www.springsource.org/node/3625</link>
+ <description>&lt;p&gt;We&#039;re pleased to an announce the GA release of Spring Security 3.1.2&lt;br /&gt;
+The release is available from the &lt;a href=&quot;http://www.springsource.com/download/community?project=Spring%20Security&quot;&gt;Spring Community Downloads area&lt;/a&gt; and jars are available from Maven central repository. See the &lt;a href=&quot;http://www.springsource.org/spring-security&quot;&gt;project website&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;p&gt;Special thanks to Chris Beams for all his help and guidance with updating the Spring Security build to use the &lt;a href=&quot;https://github.com/SpringSource/spring-framework/wiki/Gradle-build-and-release-FAQ#wiki-release_process&quot;&gt;Spring release process&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://jira.springsource.org/secure/ReleaseNote.jspa?projectId=10040&amp;amp;version=13105&quot;&gt;Changelog&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/download/community?project=Spring%20Security&amp;amp;version=3.1.2.RELEASE&quot;&gt;Download&lt;/a&gt; | &lt;a href=&quot;http://static.springsource.org/spring-security/site/docs/3.1.x/reference/springsecurity-single.html&quot;&gt;Reference Manual&lt;/a&gt; | &lt;a href=&quot;http://static.springsource.org/spring-security/site/faq.html&quot;&gt;FAQ&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/3625#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Fri, 10 Aug 2012 14:15:39 +0000</pubDate>
+ <dc:creator>rwinch</dc:creator>
+ <guid isPermaLink="false">3625 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>This Week in Spring - August 7th, 2012</title>
+ <link>http://www.springsource.org/node/3623</link>
+ <description> &lt;P&gt; 
+ Welcome to another installment of &lt;EM&gt;This Week in Spring&lt;/EM&gt;! 
+ As usual, we&#039;ve got a lot to cover, so let&#039;s get to it! 
+&lt;/P&gt;
+&lt;OL&gt;
+ 	&lt;li&gt; I did a brief review of Manning&#039;s new book, 
+	&lt;a href = &quot;http://www.springsource.org/node/3622&quot;&gt;
+	&lt;EM&gt;Spring Roo in Action&lt;/Em&gt;&lt;/a&gt;. Check it, and the book, out!
+
+	&lt;/li&gt;
+	  &lt;LI&gt; The &lt;a href = &quot;http://bit.ly/QWSrml&quot;&gt;Cloud Foundry Integration for Eclipse Now Supports Tunneling to Services&lt;/a&gt;. This increases the parity betwen the Eclipse support (and the SpringSource Tool Suite support)  and the &lt;CODE&gt;vmc&lt;/CODE&gt; command-line client.  &lt;/LI&gt;
+		
+
+		&lt;LI&gt; The VMware has a very cool blog taking a look the roles Spring and RabbitMQ play in 
+			 &lt;a href = &quot;http://blogs.vmware.com/vfabric/2012/07/spring-and-rabbitmq-behind-indias-12-billion-person-biometric-database-1.html&quot;&gt;in the new project behind India&#039;s 1.2 Billion Person Biometric Database&lt;/a&gt;. &lt;EM&gt;Very&lt;/EM&gt; cool! 
+&lt;/LI&gt;
+
+&lt;LI&gt; David Turanski has a nice post that introduces a finer point of the Spring Data repository implementations: &lt;a href =&quot;http://blog.springsource.org/2012/08/03/the-most-amazing-java-type-declaration-ever/&quot;&gt;its &lt;EM&gt;really&lt;/EM&gt; elegant code-base!&lt;/A&gt;   &lt;/LI&gt; 
+
+
+	  &lt;LI&gt; Jerry Kuch, a staff engineer at VMWare, did a very nice video &lt;a href = &quot;http://www.youtube.com/watch?v=WCRyNesk_ak&amp;feature=em-uploademail&quot;&gt;on the new features in RabbitMQ&lt;/A&gt;&lt;/LI&gt;
+		 &lt;LI&gt; 
+			Spring Security lead Rob Winch&#039;s amazing &lt;a href = &quot;http://www.infoq.com/presentations/Securing-OAuth2-Spring-Security&quot;&gt;QCon New York talk on Spring Security is now available on InfoQ.com&lt;/a&gt;.   
+		 &lt;/LI&gt;	&lt;LI&gt; Umar Ashfaq has put together a  nice blog detailing &lt;a href = &quot;http://www.to-string.com/2012/08/03/springsecurity-authenticating-authorizing-ajax-requests/&quot;&gt;how to 
+		   authenticate ajax based requests using Spring Security&lt;/A&gt;. This blog then links to two other blogs, one on the server side implementation and another on the client side. 
+		 The approach described uses standard Spring Security web integration, but modifies the responses to work well with an Ajax client.  
+		
+		 &lt;/LI&gt;
+			&lt;LI&gt;  Umar Ashfaq also had a very nice &lt;a href = &quot;http://www.to-string.com/2012/07/11/springsecurity-capturing-rememberme-success-event/&quot;&gt;post on using Spring Security&#039;s &quot;remember me&quot; feature&lt;/a&gt;.    &lt;/li&gt;
+	&lt;LI&gt;  The &lt;EM&gt;Codeyard&lt;/EM&gt; blog has an interesting - and long! - post on &lt;A href = &quot;http://codeyard.wordpress.com/2012/07/31/spring-hibernate-end-to-end-integration-using-maven-spring-mvc-jsp-oracle11g-a-step-by-step-guide/&quot;&gt;how to setup Spring and Hibernate to work together&lt;/A&gt;. 
+		
+		The post uses Spring 3.0, and an older version of Hibernate.   &lt;/li&gt;
+	&lt;LI&gt; Partha Bhattacharjee has a nice post introducing &lt;a href = &quot;http://java.dzone.com/articles/handling-form-validation&quot;&gt;JSR 303 bean validation with Spring&lt;/A&gt;.  &lt;/LI&gt;
+			&lt;LI&gt; Partha Bhattacharjee also has another nice post  &lt;a href = &quot;http://techforenterprise.blogspot.in/2012/08/introducing-spring-integration.html&quot;&gt;introducing Spring Integration&lt;/a&gt;. Nice job!&lt;/LI&gt;
+
+	&lt;LI&gt; Markus Eisele has a post about &lt;a href = &quot;http://java.dzone.com/articles/getting-started-spring-social-1&quot;&gt;using Spring Social to build the simplest possible Facebook application possible&lt;/a&gt;.  &lt;/LI&gt;
+
+ &lt;LI&gt; Arnon Rotem-gal-oz has put &lt;a href = &quot;http://java.dzone.com/articles/rabbitmq-and-short-intro-amqp&quot;&gt;together a nice look at RabbitMQ and AMQP&lt;/a&gt;.    &lt;/LI&gt;
+  &lt;LI&gt;  &lt;A href = &quot;http://lists.rabbitmq.com/pipermail/rabbitmq-announce/2012-August/000049.html&quot;&gt;RabbitMQ 2.8.5 has been released&lt;/a&gt;! For the details, see the &lt;a href =&quot;http://lists.rabbitmq.com/pipermail/rabbitmq-announce/attachments/20120802/e4ad3dd3/attachment.txt&quot;&gt;release notes&lt;/a&gt;.  	
+	 &lt;/LI&gt;
+ 
+
+	&lt;LI&gt; 
+		The SolidSoft blog has an interesting post on using &lt;a href =&quot;http://solidsoft.wordpress.com/2012/08/07/beyond-the-mockito-refcard-part-2-convenient-mocking-beans-in-the-spring-context-with-springockito/&quot;&gt;a library called SpringMockito to mock beans in a Spring context&lt;/a&gt;. The library mocks beans for you and then 
+		makes it easy to inject them and reference them as you would the real deal. This could be very compelling especially used in conjunction with Spring 3.1&#039;s profiles feature, which lets you partition 
+		beans along &lt;em&gt;environments&lt;/EM&gt;. You might, for example, have a bean called &lt;em&gt;development&lt;/EM&gt;, &lt;EM&gt;production&lt;/EM&gt; and &lt;em&gt;test&lt;/EM&gt;. 
+			
+		  &lt;/LI&gt; 
+	
+ 
+ &lt;LI&gt; Thymeleaf 2.0.11 has just been released and completes support &lt;A href =&quot;http://www.thymeleaf.org&quot;&gt;for Spring WebFlow, now including AJAX-based &amp;lt;render&amp;gt; events (even without Tiles)&lt;/a&gt;.   &lt;/LI&gt;
+
+	
+	 
+&lt;/OL&gt;</description>
+ <comments>http://www.springsource.org/node/3623#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Tue, 07 Aug 2012 18:38:19 +0000</pubDate>
+ <dc:creator>Josh Long</dc:creator>
+ <guid isPermaLink="false">3623 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Manning&#039;s Spring Roo in Action</title>
+ <link>http://www.springsource.org/node/3622</link>
+ <description>&lt;DIV style = &quot;margin:0; margin-top:10px;margin-bottom:10px;&quot;&gt; 
+ &lt;table cellpadding = &quot;0&quot; cellspacing = &quot;0&quot; border = &quot;0&quot; &gt; 
+&lt;tr&gt;&lt;td style = &quot;padding-right: 10px;&quot;&gt;&lt;STRONG&gt;Author&lt;/STRONG&gt;&lt;/TD&gt; &lt;TD&gt; Ken Rimple and Srini Penchikala &lt;/TD&gt; &lt;/TR&gt;
+&lt;tr&gt;&lt;td  style = &quot;padding-right: 10px;&quot;&gt;&lt;strong&gt;Publisher&lt;/STRONG&gt; &lt;/TD&gt;&lt;TD&gt; &lt;a href =&quot;http://www.manning.com&quot;&gt;Manning&lt;/A&gt; &lt;/TD&gt; &lt;/TR&gt;
+&lt;/TABLE&gt; 
+
+&lt;/DIV&gt; 
+&lt;P&gt;  &lt;img  style = &quot;padding-left:10px;float: right; &quot; src = &quot;http://www.springsource.org/files/rimple_cover150.jpeg&quot; /&gt;
+
+
+ 
+
+When Ken Rimple and Srini Penchikala&#039;s  &lt;EM&gt;Spring Roo in Action&lt;/EM&gt; was released, I was eager to read it. The book covers all the basic information thoroughly: what is Spring Roo? What does new development look like with Spring Roo?  How should developers iterate on longer projects with Spring Roo? Also the book introduces the 80% cases well: how to develop a service tier and domain model (complete with unit tests), how to build a web application, how to configure and run integration-tests, etc.
+ &lt;/p&gt;&lt;P&gt;
+The book really comes into its own in the details and the depth, though. As you work through the service tier development, you’ll wonder about NoSQL, and you’ll wonder about the supported styles for your services and repositories - this book will be a useful guide for solving these problems. One day, you may find yourself staring at a Roo console without a helpful command for your particular requirement or you may have some use case that isn’t already well served by the wealth of add-ons. Here too, this book provides pragmatic instructions for extending Roo for your own unique demands.
+ &lt;/p&gt;&lt;P&gt;
+The book is divided into several parts, each starting slow and simple and then gradually escalating in depth and detail.
+&lt;/p&gt;&lt;uL&gt;
+&lt;LI&gt;Starting Spring apps rapidly with Roo&lt;/LI&gt;
+&lt;LI&gt;Databases and Entities&lt;/LI&gt;
+&lt;LI&gt; Web Development&lt;/LI&gt;
+&lt;li&gt; Integration&lt;/LI&gt;
+&lt;li&gt;Roo in the Cloud&lt;/li&gt;
+&lt;/li&gt;&lt;/uL&gt;
+
+&lt;P&gt; 
+Readers and users of all experience levels will find something of value in this book.
+&lt;/p&gt;
+
+
+&lt;/P&gt;</description>
+ <comments>http://www.springsource.org/node/3622#comments</comments>
+ <pubDate>Tue, 07 Aug 2012 13:43:42 +0000</pubDate>
+ <dc:creator>Josh Long</dc:creator>
+ <guid isPermaLink="false">3622 at http://www.springsource.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?php
+include '../lib/dbConn.php';
+include '../lib/strUtils.php';
+
+$json = $_REQUEST['json'];
+
+$error = array('success' => "false", 'message' => "Invalid User");
+
+
+
+if( isset($json) && $json )
+{
+	$username = stripslashes( $_REQUEST['username'] );
+	$password = stripslashes( $_REQUEST['password'] );
+	$idbrand = stripslashes( $_REQUEST['id_brand'] );
+
+	if( !isFormFieldValid($username))
+		$error['message']="username has invalid characters.";
+	else
+	{
+		$result = mysql_query("SELECT * FROM end_user WHERE login = '$username'");
+		$row = mysql_fetch_array($result);
+
+		if( isset($row)&& $username != "" && $username == $row{'login'})
+			$error['message']="username $username already exist.";
+		else {
+			$md5pass =  md5($password);
+			$insert = "INSERT INTO end_user(id_brand,login,password)
+			VALUES('".$idbrand."','".$username."','".$md5pass."')";
+			mysql_query($insert);
+
+			//login the new user
+			$result = mysql_query("SELECT * FROM end_user WHERE login='$username' AND password='$md5pass'");
+			$row = mysql_fetch_array($result);
+			if(isset($row))
+			{
+				session_start();
+				// Login good, create session variables
+				$_SESSION["valid_id"] = $row{'id'};
+				$_SESSION["valid_user"] = $username;
+				$_SESSION["valid_time"] = time();
+				
+				$error['success']="true";
+				$error['message']="$username was successfully created.";
+
+ 			}
+
+		}
+	}
+	
+	$response = array($error);
+	echo json_encode($response);	
+}
+
+?>

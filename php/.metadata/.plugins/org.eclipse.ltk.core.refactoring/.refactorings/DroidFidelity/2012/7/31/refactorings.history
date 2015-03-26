@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DroidFidelity/src/com/app/droidfidelity/ListActivity.java&apos; to &apos;ListMobileActivity.java&apos;" description="Rename resource &apos;ListActivity.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/app/droidfidelity/ListActivity.java" name="ListMobileActivity.java" stamp="1343564543734" updateReferences="true"/>
+</session>

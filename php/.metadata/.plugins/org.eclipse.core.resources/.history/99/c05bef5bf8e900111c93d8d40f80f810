@@ -1,0 +1,93 @@
+<?php session_start(); ?>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset-utf-8" />
+<title>Fidelity</title>
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+
+</head>
+<body>
+
+<?php
+include 'lib/dbConn.php';
+
+
+if (!$_SESSION["valid_user"])
+{
+	// User not logged in, redirect to login page
+	Header("Location: index.php");
+}
+
+if(isset($_GET['d_id']) )
+{
+	$delete = "DELETE FROM promotion WHERE id=".$_GET['d_id'];
+	mysql_query($delete);
+}
+
+// Display Member information
+echo "<p>User ID: " . $_SESSION["valid_id"];
+echo "<p>Username: " . $_SESSION["valid_user"];
+echo "<p>Brand: " . $_SESSION["brand"];
+echo "<p>Logged in: " . date("m/d/Y", $_SESSION["valid_time"]);
+echo "<br>";
+
+
+$result = mysql_query("SELECT * FROM promotion WHERE id_brand=" . $_SESSION["valid_id"]);
+
+
+	echo "<table border='1'>";
+	echo "<tr align='center'>";
+	echo "<td>Promo Name</td>";
+	echo "<td>Logo</td>";
+	echo "<td>Address</td>";
+	echo "<td>Discount</td>";
+	echo "<td>Distance(Km)</td>";
+	echo "<td>Short Desc</td>";
+	echo "<td>Long Desc</td>";
+	echo "<td>Date from</td>";
+	echo "<td>Date to</td>";
+	echo "<td>Edit</td>";
+	echo "<td>Delete</td>";
+	echo "</tr>";	
+ 
+
+while($row = mysql_fetch_array($result))
+{
+	echo "<tr>";
+	echo "<td>" . $row['name'] . "</td>";
+	echo "<td><img  src=\"/imgs/". $row['logo_img'] . "\" alt=\"Londres 2012 tiro con arco\" width=114 height=41/> </td>";
+	echo "<td>" . $row['address'] . "</td>";
+	echo "<td>" . $row['discount'] . "</td>";
+	echo "<td>" . $row['distanceKm'] . "</td>";
+	echo "<td>" . $row['shortDesc'] . "</td>";
+	echo "<td>" . $row['longDesc'] . "</td>";
+	echo "<td>" . $row['dateFrom'] . "</td>";
+	echo "<td>" . $row['dateTo'] . "</td>";
+	echo "<td><a href=\"editPromo.php?e_id=".$row['id']."\">Edit</a></td>";
+	echo "<td><a href=\"promotion.php?d_id=".$row['id']."\">Delete</a></td>";
+	echo "</tr>";	
+}
+?>
+</table>
+<? 
+
+// Add a promo
+echo "<p><a href=\"addPromo.php\">Add a promo</a></p>";
+
+// Display logout link
+echo "<p><a href=\"logout.php\">Click here to logout!</a></p>";
+?>
+
+<a class="activator" id="activator">Add</a>
+
+        <script type="text/javascript">
+            $(function() {
+                $('#activator').click(function(){
+                    alert('A');
+                });
+       
+
+            });
+        </script>
+</body>
+</html>
