@@ -33,7 +33,7 @@ if ($_SESSION["valid_user"])
     </p>
   </form>
     <div id="message"></div>
-    <p><a href="">Click here to Sign Up!</a></p>
+    <p><a href="signup.php">Click here to Sign Up!</a></p>
 </div>
 </body>
 </html>
