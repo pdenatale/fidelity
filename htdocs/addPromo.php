@@ -1,18 +1,13 @@
 <?php session_start(); ?>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset-utf-8" />
-<title>Fidelity</title>
-<!--script type="text/javascript" src="js/jquery-1.7.2.min.js"></script-->
-<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-<link href="css/fileuploader.css" rel="stylesheet" type="text/css">	
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-<!-- Optional theme -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-
+	<meta http-equiv="Content-Type" content="text/html; charset-utf-8" />
+	<title>Fidelity</title>
+	<link href="css/fileuploader.css" rel="stylesheet" type="text/css">	
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
 </head>
 <body>
 
@@ -41,7 +36,7 @@
 			$logo_img = stripslashes( $_REQUEST['logo'] );
 			$address = stripslashes( $_REQUEST['address'] );
 			$discount = stripslashes( $_REQUEST['discount'] );
-			$distanceKm = stripslashes( $_REQUEST['distanceKm'] );
+			$distanceKm = 0;//stripslashes( $_REQUEST['distanceKm'] );
 			$shortDesc = stripslashes( $_REQUEST['shortDesc'] );
 			$longDesc = stripslashes( $_REQUEST['longDesc'] );
 			$from = stripslashes( $_REQUEST['from'] );	
@@ -50,7 +45,7 @@
 			$insert = "INSERT INTO promotion(id_brand, name,logo_img,address,discount,distanceKm,shortDesc,longDesc,dateFrom,dateTo)
 			VALUES(".$_SESSION["valid_id"].",'".$name."','".$logo_img."','".$address."','".$discount."'
 			,".$distanceKm.",'".$shortDesc."','".$longDesc."','".$from."','".$to."')";
-	
+			
 			mysql_query($insert);
 			?>
 			<script type="text/javascript"> top.location.href='promotion.php'</script>
@@ -76,8 +71,8 @@
   			<label for="discount">Discount</label>
     		<input name="discount" id="discount" type="text" class="form-control" placeholder="Discount">
 
-			<label for="distanceKm">Distance</label>
-    		<input name="distanceKm" id="distanceKm" type="text" class="form-control" placeholder="Distance Km">
+			<!--label for="distanceKm">Distance</label>
+    		<input name="distanceKm" id="distanceKm" type="text" class="form-control" placeholder="Distance Km"-->
 
 			<label for="shortDesc">Short Description</label>
     		<input name="shortDesc" id="shortDesc" type="text" class="form-control" placeholder="Short Desc.">

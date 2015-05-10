@@ -42,7 +42,7 @@ $result = mysql_query("SELECT * FROM promotion WHERE id_brand=" . $_SESSION["val
 	echo "<td>Logo</td>";
 	echo "<td>Address</td>";
 	echo "<td>Discount</td>";
-	echo "<td>Distance(Km)</td>";
+	//echo "<td>Distance(Km)</td>";
 	echo "<td>Short Desc</td>";
 	echo "<td>Long Desc</td>";
 	echo "<td>Date from</td>";
@@ -59,7 +59,7 @@ while($row = mysql_fetch_array($result))
 	echo "<td><img  src=\"/imgs/". $row['logo_img'] . "\" alt=\"Londres 2012 tiro con arco\" width=114 height=41/> </td>";
 	echo "<td>" . $row['address'] . "</td>";
 	echo "<td>" . $row['discount'] . "</td>";
-	echo "<td>" . $row['distanceKm'] . "</td>";
+	//echo "<td>" . $row['distanceKm'] . "</td>";
 	echo "<td>" . $row['shortDesc'] . "</td>";
 	echo "<td>" . $row['longDesc'] . "</td>";
 	echo "<td>" . $row['dateFrom'] . "</td>";

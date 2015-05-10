@@ -85,8 +85,8 @@
   			<label for="discount">Discount</label>
     		<input name="discount" id="discount" type="text" class="form-control" placeholder="Discount" value="<? echo $row['discount']?>" />
 
-			<label for="distanceKm">Distance</label>
-    		<input name="distanceKm" id="distanceKm" type="text" class="form-control" placeholder="Distance Km" value="<? echo $row['distanceKm']?>" />
+			<!--label for="distanceKm">Distance</label>
+    		<input name="distanceKm" id="distanceKm" type="text" class="form-control" placeholder="Distance Km" value="<? echo $row['distanceKm']?>" /-->
 
 			<label for="shortDesc">Short Description</label>
     		<input name="shortDesc" id="shortDesc" type="text" class="form-control" placeholder="Short Desc." value="<? echo $row['shortDesc']?>" />
