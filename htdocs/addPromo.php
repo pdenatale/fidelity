@@ -4,10 +4,10 @@
 	<meta http-equiv="Content-Type" content="text/html; charset-utf-8" />
 	<title>Fidelity</title>
 	<link href="css/fileuploader.css" rel="stylesheet" type="text/css">	
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 	<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
 </head>
 <body>
 
@@ -31,7 +31,7 @@
 		if(isset($_POST['addPromo']) )
 		{
 			//Realy nasty, each field has to be validated
-			
+			$id_category = stripslashes( $_REQUEST['id_category'] );
 			$name = stripslashes( $_REQUEST['name'] );
 			$logo_img = stripslashes( $_REQUEST['logo'] );
 			$address = stripslashes( $_REQUEST['address'] );
@@ -42,8 +42,8 @@
 			$from = stripslashes( $_REQUEST['from'] );	
 			$to =	stripslashes( $_REQUEST['to'] );		
 			
-			$insert = "INSERT INTO promotion(id_brand, name,logo_img,address,discount,distanceKm,shortDesc,longDesc,dateFrom,dateTo)
-			VALUES(".$_SESSION["valid_id"].",'".$name."','".$logo_img."','".$address."','".$discount."'
+			$insert = "INSERT INTO promotion(id_brand, id_category, name,logo_img,address,discount,distanceKm,shortDesc,longDesc,dateFrom,dateTo)
+			VALUES(".$_SESSION["valid_id"].",".$id_category.",'".$name."','".$logo_img."','".$address."','".$discount."'
 			,".$distanceKm.",'".$shortDesc."','".$longDesc."','".$from."','".$to."')";
 			
 			mysql_query($insert);
@@ -73,6 +73,17 @@
 
 			<!--label for="distanceKm">Distance</label>
     		<input name="distanceKm" id="distanceKm" type="text" class="form-control" placeholder="Distance Km"-->
+			
+			<label for="sel1">Category:</label>
+			<select class="form-control" id="id_category" name="id_category">
+			<?php
+				$sql = "SELECT id, name FROM category ORDER BY name asc";
+				$query =  mysql_query ($sql);
+				while ( $resultado = mysql_fetch_array($query)){
+					echo "<option value='".$resultado['id']."'> ". $resultado['name']."</option>";
+			}
+			?>
+			</select>
 
 			<label for="shortDesc">Short Description</label>
     		<input name="shortDesc" id="shortDesc" type="text" class="form-control" placeholder="Short Desc.">

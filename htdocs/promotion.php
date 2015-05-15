@@ -34,12 +34,14 @@ echo "<span class=\"label label-success\">Hola ".strtoupper($_SESSION["valid_use
 echo "<span class=\"label label-warning\">Ingresaste por ultima vez ".date("d/m/Y", $_SESSION["valid_time"])."</span><br><br>";
 echo "<br>";
 
-$result = mysql_query("SELECT * FROM promotion WHERE id_brand=" . $_SESSION["valid_id"]);
+$sql = "SELECT p.*, c.name as category_name FROM promotion p LEFT JOIN category c ON p.id_category=c.id WHERE p.id_brand=" . $_SESSION["valid_id"];
+$result = mysql_query($sql);
 
 	echo "<table class='table table-striped'>";
 	echo "<tr align='center'>";
 	echo "<td>Promo Name</td>";
-	echo "<td>Logo</td>";
+	echo "<td>Category</td>";
+    echo "<td>Logo</td>";
 	echo "<td>Address</td>";
 	echo "<td>Discount</td>";
 	//echo "<td>Distance(Km)</td>";
@@ -56,7 +58,8 @@ while($row = mysql_fetch_array($result))
 {
 	echo "<tr>";
 	echo "<td>" . $row['name'] . "</td>";
-	echo "<td><img  src=\"/imgs/". $row['logo_img'] . "\" alt=\"Londres 2012 tiro con arco\" width=114 height=41/> </td>";
+	echo "<td>" . $row['category_name'] . "</td>";
+    echo "<td><img  src=\"/imgs/". $row['logo_img'] . "\" alt=\"Londres 2012 tiro con arco\" width=114 height=41/> </td>";
 	echo "<td>" . $row['address'] . "</td>";
 	echo "<td>" . $row['discount'] . "</td>";
 	//echo "<td>" . $row['distanceKm'] . "</td>";
